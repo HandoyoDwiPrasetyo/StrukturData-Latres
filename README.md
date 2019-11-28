@@ -1,0 +1,2 @@
+# StrukturData-Latres
+Tampung huruf
